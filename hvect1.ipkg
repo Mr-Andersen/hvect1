@@ -1,0 +1,5 @@
+package hvect1-0_0_1
+
+sourcedir   = "src"
+
+modules     = Main
